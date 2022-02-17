@@ -22,5 +22,5 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 ## Author
 
 - [@kulkarni-harsh](https://www.github.com/kulkarni-harsh)      
-           . . . . . .       [@Medium Profile](https://medium.com/@harsh.kulkarni.42774)
+           . . . . . .       [@Medium Profile](https://medium.com/@kulkarni-harsh)
 
